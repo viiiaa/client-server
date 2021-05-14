@@ -1,0 +1,7 @@
+#!/bin/bash
+#To run the code:
+#step1 -> change mode of the file on terminal
+#chmod u+x received
+#step2 -> ./received
+#step3 -> Open the file received again
+ls > received
